@@ -3,14 +3,14 @@
 3.Belgian melinois
 4.Dalmation
 5.Rajapalyam
-6.Dash hound
+6.Dachshund
 7.Bull dog
 8.Beagel
 9.Cocker spaniel
-10.Hutch dog
-11.Golden retiever
-12.Boxer
-13.Chihuahua
-14.Poodle
-15.Rottweiler
-16.Great Dane
+10.Golden retiever
+11.Boxer
+12.Chihuahua
+13.Poodle
+14.Rottweiler
+15.Great Dane
+
