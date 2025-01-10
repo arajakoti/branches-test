@@ -15,3 +15,5 @@
 15.Great Dane
 16.Pug
 17.Chow chow
+18.Australian sheperd
+
