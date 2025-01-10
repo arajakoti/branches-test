@@ -12,3 +12,5 @@
 12.Boxer
 13.Chihuahua
 14.Poodle
+15.Rottweiler
+16.Great Dane
