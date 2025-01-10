@@ -8,3 +8,4 @@
 8.Beagel
 9.Cocker spaniel
 10.Hutch dog
+11.Golden retiever
