@@ -10,3 +10,4 @@
 10.Hutch dog
 11.Golden retiever
 12.Boxer
+13.Chihuahua
