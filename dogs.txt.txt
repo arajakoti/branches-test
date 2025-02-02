@@ -17,3 +17,4 @@
 17.Chow chow
 18.Australian sheperd
 19.Afghan hound
+20.Yorkshire Terrier
