@@ -18,3 +18,4 @@
 18.Australian sheperd
 19.Afghan hound
 20.Yorkshire Terrier
+21.Basset Hound
