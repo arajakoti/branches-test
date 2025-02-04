@@ -19,3 +19,4 @@
 19.Afghan hound
 20.Yorkshire Terrier
 21.Basset Hound
+22.Pembroke Welsh Corgi
